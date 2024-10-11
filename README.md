@@ -1,1 +1,1 @@
-# project-b
+# Sample Git Project to teach the team
